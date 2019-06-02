@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@dword-design/functions@^0.2.2":
-  version "0.2.2"
-  resolved "https://registry.yarnpkg.com/@dword-design/functions/-/functions-0.2.2.tgz#19508401e3728617196c51a44bce4e7aef619646"
-  integrity sha512-ddxW9nLXVSAB7fY+sO8v8sgBnjwvBhHylYK4ICFA2qNwKsWv6Fq107brfBDoAsetxYn5rOQdreRMUEU5qgahzw==
+"@dword-design/functions@^0.2.4":
+  version "0.2.4"
+  resolved "https://registry.yarnpkg.com/@dword-design/functions/-/functions-0.2.4.tgz#02061b7f1e8d95fb1e7c16765beb4269f6358342"
+  integrity sha512-/T6h1VY6dZSLFF/fnk2O7mVA6ugQnoKxra4ABnRikmNm2sxbRCj/RiWFQiDZh1WWAlQrLftnH/TkGugQjT7aEQ==
   dependencies:
     lodash "^4.17.11"
 
