@@ -1,16 +1,11 @@
 {
   "name": "@dword-design/prepend-data-to-vnodes",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "dist/index.js",
   "license": "MIT",
-  "scripts": {
-    "prepare": "babel src --out-dir dist"
-  },
   "dependencies": {
     "@dword-design/functions": "^0.2.2",
     "vue-functional-data-merge": "^2.0.7"
   },
-  "devDependencies": {
-    "@dword-design/base": "^0.3.1"
-  }
+  "devDependencies": {}
 }
