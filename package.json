@@ -1,11 +1,31 @@
 {
   "name": "@dword-design/prepend-data-to-vnodes",
-  "version": "0.1.2",
-  "main": "dist/index.js",
-  "license": "MIT",
-  "dependencies": {
-    "@dword-design/functions": "^0.2.4",
-    "vue-functional-data-merge": "^2.0.7"
+  "version": "1.0.0",
+  "bugs": {
+    "url": "https://github.com/dword-design/prepend-data-to-vnodes/issues"
   },
-  "devDependencies": {}
+  "repository": "dword-design/prepend-data-to-vnodes",
+  "license": "MIT",
+  "author": "Sebastian Landwehr <info@dword-design.de>",
+  "files": [
+    "dist"
+  ],
+  "main": "dist/index.js",
+  "scripts": {
+    "prepublishOnly": "base build",
+    "start": "base start",
+    "test": "base test"
+  },
+  "dependencies": {
+    "@dword-design/functions": "^2.2.4",
+    "vue-functional-data-merge": "^3.1.0"
+  },
+  "devDependencies": {
+    "@dword-design/base": "^3.9.0"
+  },
+  "contributors": [
+    "Renovate Bot (http://renovatebot.com)",
+    "dword-design (http://www.dword-design.de)"
+  ],
+  "maintainers": []
 }
