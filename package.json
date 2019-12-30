@@ -21,7 +21,7 @@
     "vue-functional-data-merge": "^3.1.0"
   },
   "devDependencies": {
-    "@dword-design/base": "^3.9.0"
+    "@dword-design/base": "^4.0.0"
   },
   "contributors": [
     "Renovate Bot (http://renovatebot.com)",
