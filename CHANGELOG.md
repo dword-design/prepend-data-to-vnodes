@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/dword-design/prepend-data-to-vnodes/compare/v1.0.6...v1.0.7) (2020-12-02)
+
+
+### Bug Fixes
+
+* **config:** Update changed files ([1ba2199](https://github.com/dword-design/prepend-data-to-vnodes/commit/1ba2199a56c44ba3319cc29b7a334d083fe9b6d5))
+
 ## [1.0.6](https://github.com/dword-design/prepend-data-to-vnodes/compare/v1.0.5...v1.0.6) (2020-08-26)
 
 
